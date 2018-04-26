@@ -1,4 +1,3 @@
-Learned: git diff; git log; git clone; git checkout
 
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
@@ -25,13 +24,13 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 How can you use the commands git log and git diff to view the history of files?
 
-    * git log can be used to list the summaries of all the changes made to the repository.
+    git log can be used to list the summaries of all the changes made to the repository.
 	* git diff can be used to see what has actually changed between two given commits.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    * You can try changing any critical features, since you can always revert back to the point when those were working correctly. If you find something is not working, you can git log, and try the previous versions until you find the one which works, and make diff of the last one that worked correctly and the commit following it. That result would show where and how the bug was introduced.
+    You can try changing any critical features, since you can always revert back to the point when those were working correctly. If you find something is not working, you can git log, and try the previous versions until you find the one which works, and make diff of the last one that worked correctly and the commit following it. That result would show where and how the bug was introduced.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
