@@ -22,7 +22,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Can merge changes into own branches offline I can do this even
+    Can merge changes into own branches offline
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
@@ -32,4 +32,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    A separate branch could be useful for a very large group of collaborators 
+    A separate branch could be useful for a very large group of collaborators
